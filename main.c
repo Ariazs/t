@@ -3,7 +3,9 @@
 
 int main(void)
 {
-  printf("hello !\n");
+  
+  printf("shanchu");
+  printf("zheyeshi");
   return 0;
   
 }
